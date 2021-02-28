@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c8c9cd85ad3e18478141188cae4f038, type: 3}
+  m_Name: TalkV
+  m_EditorClassIdentifier: 
+  gameText: "\u201CHmmm \u2026 I'm sorry this conversion seems familiar for some
+    reason. The Shop you're looking for is just right of the Willow wisp tree. I'm
+    actually heading there now, if you would like we could go together? \u201D You
+    can go left with the stranger or go right and explore more of the town. "
+  otherStates:
+  - {fileID: 11400000, guid: 4dfe861ac0545d44a9935e7c18634970, type: 2}
+  - {fileID: 11400000, guid: 33707f35bce5c594f86d5997b9795454, type: 2}

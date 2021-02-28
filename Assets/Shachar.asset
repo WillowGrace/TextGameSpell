@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c8c9cd85ad3e18478141188cae4f038, type: 3}
+  m_Name: Shachar
+  m_EditorClassIdentifier: 
+  gameText: "The casino might not have been the best choice. When you got close to
+    it an overly friendly regular decided to swing his arm around your shoulder and
+    introduced himself. \u201CHey I'm Shacar, you going to the casino too?.... No
+    ? then why are you heading this way? I think its only thing on this side of town\u201D
+    (left ) \u201C Im looking for something, Bye\u201D or (right) \u201CAlright,
+    Do you know where the Spell shop is?\u201D "
+  otherStates:
+  - {fileID: 11400000, guid: addfc447e7940ce4b925c7bb52620cb9, type: 2}
+  - {fileID: 11400000, guid: 4dfe861ac0545d44a9935e7c18634970, type: 2}

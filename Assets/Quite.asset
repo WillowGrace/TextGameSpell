@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c8c9cd85ad3e18478141188cae4f038, type: 3}
+  m_Name: Quite
+  m_EditorClassIdentifier: 
+  gameText: 'As expected not that many people are around here nor are there that
+    many shops. I could head back toward the crowd to the left or I go through a
+    public garden to the right. '
+  otherStates:
+  - {fileID: 11400000, guid: 0dfe1c733c6d98b4fad350c6a9ab8034, type: 2}
+  - {fileID: 11400000, guid: 0e139533bcc4d8c49a5b58188a9d64a1, type: 2}

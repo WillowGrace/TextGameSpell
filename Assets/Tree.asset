@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c8c9cd85ad3e18478141188cae4f038, type: 3}
+  m_Name: Tree
+  m_EditorClassIdentifier: 
+  gameText: 'A Strange tree stands in front of you. It looks almost ethereal, emanating
+    a soft blue light with orbs of white light flying between the branches. To the
+    right there is a path that leads to a row of small shops or you could go left
+    to the bridge. '
+  otherStates:
+  - {fileID: 11400000, guid: 566790db5eefcc54baf6f3e190f8e66f, type: 2}
+  - {fileID: 11400000, guid: b7cd1fbf5be799c4ca715d8f93fd4808, type: 2}
